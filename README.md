@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlynn0791&label=Profile%20views&color=0e75b6&style=flat" alt="mlynn0791" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlynn0791" alt="mlynn0791" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mickilayla14" target="blank"><img src="https://img.shields.io/twitter/follow/mickilayla14?logo=twitter&style=for-the-badge" alt="mickilayla14" /></a> </p>
 
@@ -34,4 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlynn0791&show_icons=true&locale=en&layout=compact" alt="mlynn0791" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlynn0791&show_icons=true&locale=en" alt="mlynn0791" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlynn0791&show_icons=true&locale=en" alt="mlynn0791" /></p>
