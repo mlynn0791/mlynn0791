@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlynn0791&show_icons=true&locale=en&layout=compact" alt="mlynn0791" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlynn0791&show_icons=true&locale=en" alt="mlynn0791" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlynn0791&show_icons=true&locale=en" alt="mlynn0791" /></p> -->
