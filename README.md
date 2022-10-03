@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mickilayla14" target="blank"><img src="https://img.shields.io/twitter/follow/mickilayla14?logo=twitter&style=for-the-badge" alt="mickilayla14" /></a> </p>
 
-- 🔭 I’m currently working on [MyShop](https://github.com/mlynn0791/MyShop.git)
+- 🔭 I’m currently working on studying Web Development Concepts and Subjects! 
 
 - 🌱 I’m currently learning **Web Development, Data Structures & Algorithms, and React**
 
